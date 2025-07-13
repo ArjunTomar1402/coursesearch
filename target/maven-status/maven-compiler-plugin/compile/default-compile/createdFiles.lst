@@ -1,8 +1,10 @@
 com\example\coursesearch\config\AppConfig.class
 com\example\coursesearch\service\DataIndexingService$1.class
+com\example\coursesearch\controller\CourseSearchController.class
 com\example\coursesearch\CourseseachApplication.class
-com\example\coursesearch\repository\CourseRepository.class
+com\example\coursesearch\search\CourseSearchService.class
 com\example\coursesearch\service\DataIndexingService.class
-com\example\coursesearch\document\CourseDocument.class
 com\example\coursesearch\config\ElasticsearchConfig.class
+com\example\coursesearch\repository\CourseRepository.class
+com\example\coursesearch\document\CourseDocument.class
 com\example\coursesearch\document\CourseDocument$CourseDocumentBuilder.class
