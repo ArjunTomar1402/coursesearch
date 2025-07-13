@@ -17,7 +17,14 @@ public class CourseSearchController {
     }
 
     @GetMapping
-    public List<CourseDocument> search(@RequestParam String keyword) {
-        return courseSearchService.search(keyword);
+    public List<CourseDocument> search(
+            @RequestParam String keyword,
+            @RequestParam(required = false) Integer minAge,
+            @RequestParam(required = false) Integer maxAge,
+            @RequestParam(required = false) String type,
+            @RequestParam(required = false) String category,
+            @RequestParam(required = false) Double price
+    ) {
+        return courseSearchService.search(keyword, minAge, maxAge, type, category, price);
     }
 }
