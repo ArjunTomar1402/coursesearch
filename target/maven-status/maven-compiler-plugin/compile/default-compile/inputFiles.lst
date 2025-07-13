@@ -1,2 +1,6 @@
+C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\config\AppConfig.java
+C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\config\ElasticsearchConfig.java
 C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\CourseseachApplication.java
 C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\document\CourseDocument.java
+C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\repository\CourseRepository.java
+C:\Users\basic\OneDrive\Documents\coursesearch\src\main\java\com\example\coursesearch\service\DataIndexingService.java
