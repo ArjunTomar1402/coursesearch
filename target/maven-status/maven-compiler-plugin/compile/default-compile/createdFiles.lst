@@ -1,1 +1,3 @@
-com\example\courseseach\CourseseachApplication.class
+com\example\coursesearch\CourseseachApplication.class
+com\example\coursesearch\document\CourseDocument.class
+com\example\coursesearch\document\CourseDocument$CourseDocumentBuilder.class

@@ -1,4 +1,4 @@
-package com.example.courseseach;
+package com.example.coursesearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

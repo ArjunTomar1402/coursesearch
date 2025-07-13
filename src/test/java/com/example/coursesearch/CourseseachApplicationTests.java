@@ -1,4 +1,4 @@
-package com.example.courseseach;
+package com.example.coursesearch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
