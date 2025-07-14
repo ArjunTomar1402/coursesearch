@@ -8,7 +8,7 @@
     "minAge": 1,
     "maxAge": 2,
     "price": 99.00,
-    "nextSessionDate": "2025-09-01",
+    "nextSessionDate": "2025-09-01T09:00:00Z",
     "gradeRange": "N/A"
   },
   {
@@ -20,7 +20,7 @@
     "minAge": 3,
     "maxAge": 4,
     "price": 89.99,
-    "nextSessionDate": "2025-08-25",
+    "nextSessionDate": "2025-08-25T10:00:00Z",
     "gradeRange": "Pre-K"
   },
   {
@@ -32,7 +32,7 @@
     "minAge": 5,
     "maxAge": 6,
     "price": 129.99,
-    "nextSessionDate": "2025-09-10",
+    "nextSessionDate": "2025-09-10T15:00:00Z",
     "gradeRange": "K-1"
   },
   {
@@ -44,7 +44,7 @@
     "minAge": 6,
     "maxAge": 7,
     "price": 109.99,
-    "nextSessionDate": "2025-08-15",
+    "nextSessionDate": "2025-08-15T14:00:00Z",
     "gradeRange": "1-2"
   },
   {
@@ -56,7 +56,7 @@
     "minAge": 7,
     "maxAge": 8,
     "price": 59.99,
-    "nextSessionDate": "2025-08-05",
+    "nextSessionDate": "2025-08-05T11:00:00Z",
     "gradeRange": "2-3"
   },
   {
@@ -68,7 +68,7 @@
     "minAge": 8,
     "maxAge": 10,
     "price": 199.00,
-    "nextSessionDate": "2025-08-03",
+    "nextSessionDate": "2025-08-03T17:00:00Z",
     "gradeRange": "3-5"
   },
   {
@@ -80,7 +80,7 @@
     "minAge": 9,
     "maxAge": 11,
     "price": 119.99,
-    "nextSessionDate": "2025-09-03",
+    "nextSessionDate": "2025-09-03T13:00:00Z",
     "gradeRange": "4-6"
   },
   {
@@ -92,7 +92,7 @@
     "minAge": 10,
     "maxAge": 12,
     "price": 349.99,
-    "nextSessionDate": "2025-08-12",
+    "nextSessionDate": "2025-08-12T15:00:00Z",
     "gradeRange": "5-6"
   },
   {
@@ -104,7 +104,7 @@
     "minAge": 12,
     "maxAge": 14,
     "price": 399.99,
-    "nextSessionDate": "2025-09-07",
+    "nextSessionDate": "2025-09-07T16:00:00Z",
     "gradeRange": "6-8"
   },
   {
@@ -116,7 +116,7 @@
     "minAge": 13,
     "maxAge": 15,
     "price": 179.00,
-    "nextSessionDate": "2025-08-18",
+    "nextSessionDate": "2025-08-18T17:00:00Z",
     "gradeRange": "7-9"
   },
   {
@@ -128,7 +128,7 @@
     "minAge": 14,
     "maxAge": 16,
     "price": 149.99,
-    "nextSessionDate": "2025-09-01",
+    "nextSessionDate": "2025-09-01T18:00:00Z",
     "gradeRange": "8-10"
   },
   {
@@ -140,7 +140,7 @@
     "minAge": 15,
     "maxAge": 17,
     "price": 499.00,
-    "nextSessionDate": "2025-08-20",
+    "nextSessionDate": "2025-08-20T13:30:00Z",
     "gradeRange": "9-12"
   },
   {
@@ -152,7 +152,7 @@
     "minAge": 16,
     "maxAge": 18,
     "price": 549.99,
-    "nextSessionDate": "2025-08-28",
+    "nextSessionDate": "2025-08-28T14:30:00Z",
     "gradeRange": "11-12"
   },
   {
@@ -164,7 +164,7 @@
     "minAge": 16,
     "maxAge": 18,
     "price": 299.00,
-    "nextSessionDate": "2025-08-04",
+    "nextSessionDate": "2025-08-04T10:00:00Z",
     "gradeRange": "11-12"
   },
   {
@@ -176,7 +176,7 @@
     "minAge": 17,
     "maxAge": 19,
     "price": 399.00,
-    "nextSessionDate": "2025-09-02",
+    "nextSessionDate": "2025-09-02T11:30:00Z",
     "gradeRange": "12"
   },
   {
@@ -188,7 +188,7 @@
     "minAge": 17,
     "maxAge": 20,
     "price": 449.00,
-    "nextSessionDate": "2025-09-15",
+    "nextSessionDate": "2025-09-15T10:30:00Z",
     "gradeRange": "12"
   },
   {
@@ -200,7 +200,7 @@
     "minAge": 18,
     "maxAge": 19,
     "price": 179.00,
-    "nextSessionDate": "2025-08-22",
+    "nextSessionDate": "2025-08-22T13:00:00Z",
     "gradeRange": "12"
   },
   {
@@ -212,7 +212,7 @@
     "minAge": 14,
     "maxAge": 18,
     "price": 129.00,
-    "nextSessionDate": "2025-08-19",
+    "nextSessionDate": "2025-08-19T12:30:00Z",
     "gradeRange": "8-12"
   },
   {
@@ -224,7 +224,379 @@
     "minAge": 15,
     "maxAge": 20,
     "price": 699.99,
-    "nextSessionDate": "2025-08-05",
+    "nextSessionDate": "2025-08-05T10:00:00Z",
     "gradeRange": "10-12"
+  },
+  {
+    "id": "20",
+    "title": "Chess for Beginners",
+    "description": "Learn the fundamentals of chess, strategies, and tactics.",
+    "category": "Logic",
+    "type": "COURSE",
+    "minAge": 8,
+    "maxAge": 12,
+    "price": 119.99,
+    "nextSessionDate": "2025-09-05T14:00:00Z",
+    "gradeRange": "3-6"
+  },
+  {
+    "id": "21",
+    "title": "Fun with Fractions",
+    "description": "A visual and hands-on approach to learning fractions.",
+    "category": "Math",
+    "type": "ONE_TIME",
+    "minAge": 7,
+    "maxAge": 9,
+    "price": 79.99,
+    "nextSessionDate": "2025-08-30T11:00:00Z",
+    "gradeRange": "2-4"
+  },
+  {
+    "id": "22",
+    "title": "Intro to Spanish",
+    "description": "Basic vocabulary and phrases through games and songs.",
+    "category": "Language",
+    "type": "COURSE",
+    "minAge": 6,
+    "maxAge": 8,
+    "price": 99.00,
+    "nextSessionDate": "2025-09-02T09:30:00Z",
+    "gradeRange": "1-3"
+  },
+  {
+    "id": "23",
+    "title": "World Explorers Club",
+    "description": "Discover different countries, cultures, and cuisines each week.",
+    "category": "Geography",
+    "type": "CLUB",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 139.99,
+    "nextSessionDate": "2025-08-10T10:00:00Z",
+    "gradeRange": "3-6"
+  },
+  {
+    "id": "24",
+    "title": "Typing Mastery for Kids",
+    "description": "Build accurate and fast typing skills with fun drills.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 8,
+    "maxAge": 10,
+    "price": 89.00,
+    "nextSessionDate": "2025-09-09T15:00:00Z",
+    "gradeRange": "3-5"
+  },
+  {
+    "id": "25",
+    "title": "Doodle & Digital Art Jam",
+    "description": "Explore digital sketching on tablets using drawing software.",
+    "category": "Art",
+    "type": "COURSE",
+    "minAge": 10,
+    "maxAge": 13,
+    "price": 159.99,
+    "nextSessionDate": "2025-09-12T13:00:00Z",
+    "gradeRange": "5-7"
+  },
+  {
+    "id": "26",
+    "title": "Junior Data Science",
+    "description": "Learn to play with data using simple Python notebooks.",
+    "category": "STEM",
+    "type": "COURSE",
+    "minAge": 12,
+    "maxAge": 15,
+    "price": 499.00,
+    "nextSessionDate": "2025-08-26T16:30:00Z",
+    "gradeRange": "6-9"
+  },
+  {
+    "id": "27",
+    "title": "Creative Poetry Workshop",
+    "description": "Unleash your voice and rhythm in fun poetry sessions.",
+    "category": "Literature",
+    "type": "COURSE",
+    "minAge": 13,
+    "maxAge": 16,
+    "price": 129.00,
+    "nextSessionDate": "2025-09-14T12:00:00Z",
+    "gradeRange": "7-10"
+  },
+  {
+    "id": "28",
+    "title": "Photography Basics",
+    "description": "Learn composition, lighting, and editing using phones or DSLRs.",
+    "category": "Design",
+    "type": "COURSE",
+    "minAge": 14,
+    "maxAge": 17,
+    "price": 199.00,
+    "nextSessionDate": "2025-08-27T17:00:00Z",
+    "gradeRange": "8-11"
+  },
+  {
+    "id": "29",
+    "title": "Financial Literacy for Teens",
+    "description": "Budgeting, saving, and smart money habits made simple.",
+    "category": "Life Skills",
+    "type": "COURSE",
+    "minAge": 15,
+    "maxAge": 18,
+    "price": 159.00,
+    "nextSessionDate": "2025-09-16T10:30:00Z",
+    "gradeRange": "9-12"
+  },
+  {
+    "id": "30",
+    "title": "3D Design with Tinkercad",
+    "description": "Design and print your first 3D models.",
+    "category": "STEM",
+    "type": "ONE_TIME",
+    "minAge": 10,
+    "maxAge": 14,
+    "price": 139.00,
+    "nextSessionDate": "2025-09-04T13:00:00Z",
+    "gradeRange": "5-8"
+  },
+  {
+    "id": "31",
+    "title": "Public Speaking for Kids",
+    "description": "Boost confidence through fun, age-appropriate speaking activities.",
+    "category": "Communication",
+    "type": "COURSE",
+    "minAge": 9,
+    "maxAge": 11,
+    "price": 109.00,
+    "nextSessionDate": "2025-08-14T15:00:00Z",
+    "gradeRange": "4-6"
+  },
+  {
+    "id": "32",
+    "title": "Hands-On Electronics",
+    "description": "Use simple kits to learn the basics of circuits and electricity.",
+    "category": "Science",
+    "type": "COURSE",
+    "minAge": 11,
+    "maxAge": 13,
+    "price": 179.00,
+    "nextSessionDate": "2025-08-29T14:00:00Z",
+    "gradeRange": "5-7"
+  },
+  {
+    "id": "33",
+    "title": "Junior Web Dev",
+    "description": "Build your first website using HTML and CSS.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 12,
+    "maxAge": 15,
+    "price": 199.99,
+    "nextSessionDate": "2025-08-23T11:00:00Z",
+    "gradeRange": "6-9"
+  },
+  {
+    "id": "34",
+    "title": "Intro to Python",
+    "description": "Start coding with Python in a beginner-friendly format.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 13,
+    "maxAge": 16,
+    "price": 189.99,
+    "nextSessionDate": "2025-09-06T15:30:00Z",
+    "gradeRange": "7-10"
+  },
+  {
+    "id": "35",
+    "title": "Debate & Critical Thinking",
+    "description": "Strengthen your logic and debate through structured arguments.",
+    "category": "Communication",
+    "type": "CLUB",
+    "minAge": 12,
+    "maxAge": 15,
+    "price": 149.99,
+    "nextSessionDate": "2025-08-17T14:00:00Z",
+    "gradeRange": "6-9"
+  },
+  {
+    "id": "36",
+    "title": "Advanced Java Programming",
+    "description": "OOP, inheritance, collections and basic Spring Boot intro.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 16,
+    "maxAge": 20,
+    "price": 299.00,
+    "nextSessionDate": "2025-09-13T18:00:00Z",
+    "gradeRange": "11-UG"
+  },
+  {
+    "id": "37",
+    "title": "Philosophy for Teens",
+    "description": "Explore ethics, logic, and the great thinkers.",
+    "category": "Humanities",
+    "type": "COURSE",
+    "minAge": 14,
+    "maxAge": 17,
+    "price": 129.00,
+    "nextSessionDate": "2025-09-20T16:00:00Z",
+    "gradeRange": "9-12"
+  },
+  {
+    "id": "38",
+    "title": "Nature Detectives",
+    "description": "Weekly walks and online meetups to track animals and plants.",
+    "category": "Science",
+    "type": "CLUB",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 89.00,
+    "nextSessionDate": "2025-09-08T09:00:00Z",
+    "gradeRange": "1-3"
+  },
+  {
+    "id": "39",
+    "title": "Young Inventors Workshop",
+    "description": "Design and build simple inventions using household items.",
+    "category": "STEM",
+    "type": "ONE_TIME",
+    "minAge": 8,
+    "maxAge": 12,
+    "price": 149.00,
+    "nextSessionDate": "2025-08-31T12:00:00Z",
+    "gradeRange": "3-6"
+  },
+  {
+    "id": "40",
+    "title": "Dance & Movement for Beginners",
+    "description": "Rhythm, balance, and coordination through fun dance sessions.",
+    "category": "Physical Education",
+    "type": "COURSE",
+    "minAge": 5,
+    "maxAge": 7,
+    "price": 99.00,
+    "nextSessionDate": "2025-09-11T10:00:00Z",
+    "gradeRange": "K-2"
+  },
+  {
+    "id": "41",
+    "title": "Build Your First App",
+    "description": "Create a simple mobile app using MIT App Inventor.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 11,
+    "maxAge": 14,
+    "price": 199.00,
+    "nextSessionDate": "2025-09-17T14:00:00Z",
+    "gradeRange": "5-8"
+  },
+  {
+    "id": "42",
+    "title": "Mindfulness for Kids",
+    "description": "Guided exercises to build focus, calmness, and emotional awareness.",
+    "category": "Wellness",
+    "type": "COURSE",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 89.00,
+    "nextSessionDate": "2025-09-15T08:30:00Z",
+    "gradeRange": "1-3"
+  },
+  {
+    "id": "43",
+    "title": "Fun with Physics",
+    "description": "Learn forces, motion, and energy through games and experiments.",
+    "category": "Science",
+    "type": "COURSE",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 149.00,
+    "nextSessionDate": "2025-09-19T11:00:00Z",
+    "gradeRange": "4-6"
+  },
+  {
+    "id": "44",
+    "title": "Nature Journal Club",
+    "description": "Document seasonal changes in your surroundings with sketches and notes.",
+    "category": "Art",
+    "type": "CLUB",
+    "minAge": 10,
+    "maxAge": 13,
+    "price": 119.00,
+    "nextSessionDate": "2025-09-22T09:00:00Z",
+    "gradeRange": "4-7"
+  },
+  {
+    "id": "45",
+    "title": "Game Design with Scratch",
+    "description": "Build fun interactive games using drag-and-drop coding.",
+    "category": "Technology",
+    "type": "COURSE",
+    "minAge": 8,
+    "maxAge": 11,
+    "price": 179.00,
+    "nextSessionDate": "2025-09-21T13:00:00Z",
+    "gradeRange": "3-5"
+  },
+  {
+    "id": "46",
+    "title": "Marine Biology Explorer",
+    "description": "Dive into the world of ocean life and ecosystems.",
+    "category": "Science",
+    "type": "COURSE",
+    "minAge": 12,
+    "maxAge": 15,
+    "price": 189.00,
+    "nextSessionDate": "2025-09-25T16:00:00Z",
+    "gradeRange": "6-9"
+  },
+  {
+    "id": "47",
+    "title": "Yoga for Flexibility and Focus",
+    "description": "A gentle course for kids to enhance movement and calmness.",
+    "category": "Physical Education",
+    "type": "COURSE",
+    "minAge": 7,
+    "maxAge": 10,
+    "price": 99.00,
+    "nextSessionDate": "2025-09-18T10:00:00Z",
+    "gradeRange": "2-4"
+  },
+  {
+    "id": "48",
+    "title": "Music & Rhythm Lab",
+    "description": "Explore percussion, beats, and tempo with everyday objects.",
+    "category": "Music",
+    "type": "ONE_TIME",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 89.00,
+    "nextSessionDate": "2025-09-23T14:00:00Z",
+    "gradeRange": "1-3"
+  },
+  {
+    "id": "49",
+    "title": "Future Leaders Club",
+    "description": "Weekly sessions to build leadership, empathy, and communication.",
+    "category": "Life Skills",
+    "type": "CLUB",
+    "minAge": 13,
+    "maxAge": 16,
+    "price": 199.00,
+    "nextSessionDate": "2025-09-20T15:00:00Z",
+    "gradeRange": "7-10"
+  },
+  {
+    "id": "50",
+    "title": "Climate Change & You",
+    "description": "Understand climate issues and how kids can help create change.",
+    "category": "Social Studies",
+    "type": "COURSE",
+    "minAge": 10,
+    "maxAge": 14,
+    "price": 129.00,
+    "nextSessionDate": "2025-09-27T11:00:00Z",
+    "gradeRange": "5-8"
   }
 ]

@@ -1,8 +1,6 @@
 spring:
   application:
     name: coursesearch
-  data:
-    elasticsearch:
-      cluster-nodes: localhost:9200
-      repositories:
-        enabled: true
+
+  elasticsearch:
+    uris: http://localhost:9200

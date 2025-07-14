@@ -3,13 +3,9 @@ package com.example.coursesearch.document;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.*;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Min;
-import jakarta.validation.constraints.Pattern;
-import jakarta.validation.constraints.PositiveOrZero;
+import jakarta.validation.constraints.*;
 
-
+//import java.time.Instant;
 import java.time.LocalDate;
 
 @Data
@@ -23,15 +19,15 @@ public class CourseDocument {
     @NotBlank
     private String id;
 
-    @Field(type = FieldType.Text)
+    @Field(type = FieldType.Text, analyzer = "standard")
     @NotBlank
     private String title;
 
-    @Field(type = FieldType.Text)
+    @Field(type = FieldType.Text, analyzer = "standard")
     @NotBlank
     private String description;
 
-    @Field(type = FieldType.Keyword)
+    @Field(type = FieldType.Text, analyzer = "standard")
     @NotBlank
     private String category;
 
