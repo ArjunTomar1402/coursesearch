@@ -136,7 +136,7 @@ docker-compose down
 - 🎯 Filter by minAge, maxAge, and category
 - ⚡ Fast autocomplete
 - 🧠 Fuzzy matching (e.g., `scince` → `science`)
-- 🔬 Tested: unit and integration tests included
+- 🔬 Tested: Integration tests included
 - 🧱 Modular codebase with clear responsibilities
 
 ---
