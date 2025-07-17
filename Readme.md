@@ -162,6 +162,16 @@ coursesearch/
 ├── pom.xml
 └── README.md
 ```
+## 📘 API Documentation
+
+Once the app is running, you can view and test all API endpoints here:
+
+```
+Swagger UI:  
+[http://localhost:8080/swagger-ui.html]
+OpenAPI JSON:  
+[http://localhost:8080/v3/api-docs]
+```
 
 ---
 
